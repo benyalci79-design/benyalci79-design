@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **benyalci79@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in]
+- 📄 Know about my experiences [www.linkedin.com/in/bayram-yalçi-01420443b]
 
 - ⚡ Fun fact **I still horrible on math**
 
