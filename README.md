@@ -1,4 +1,4 @@
-[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyZLB9IR0xQaNe0SMQj75uPQkV_Grsq_1HY5wwZyqUw&s=10](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJqJoC6PwllEc1HtbGWsH4i8tUU2SVK6zr-WXxotxgw&s=10))
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQJqJoC6PwllEc1HtbGWsH4i8tUU2SVK6zr-WXxotxgw&s=10]))
 <h1 align="center">Hi 👋, I'm Yalçı</h1>
 <h3 align="center">A mid-lever developer from Turkey/Denizli</h3>
 
